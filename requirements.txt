@@ -10,3 +10,4 @@ pytest
 black
 isort
 langchain-openai
+dotenv-python
